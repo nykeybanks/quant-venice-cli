@@ -1,11 +1,11 @@
-# Venice CLI
+# QYXos Custom Edition: Venice CLI by QuantumYield Innovation Technologies 
 
 > Privacy-first AI from the command line. No browser. No tracking. Just you and the model.
 
 [![npm version](https://badge.fury.io/js/veniceai-cli.svg)](https://www.npmjs.com/package/veniceai-cli)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-The official command-line interface for [Venice AI](https://venice.ai). Chat with AI models, generate images, convert text to speech, transcribe audio, and more—all from your terminal.
+The QuantumYield custom command-line interface of [Venice AI] is being prototyped. (https://venice.ai). QYX Edition Quant Chat-ability & Speach Recognition will be connected and merged with a Quant-Model [VeniceAI], unrestrained with AI models, generate images, convert text to speech, transcribe audio, and more—all from your terminal.
 
 ## Installation
 
